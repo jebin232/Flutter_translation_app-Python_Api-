@@ -124,8 +124,8 @@
             <mxPoint x="730" y="-20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vuw2rk7U0OtB3GrDGK4F-9" value="&lt;b&gt;AR Camera Input&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=#FFFFFF;fillColor=none;fontSize=11;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="686" y="-50" width="92.02" height="20" as="geometry" />
+        <mxCell id="vuw2rk7U0OtB3GrDGK4F-9" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;AR Camera Input&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=#FFFFFF;fillColor=none;fontSize=11;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="677" y="-55" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vuw2rk7U0OtB3GrDGK4F-11" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
