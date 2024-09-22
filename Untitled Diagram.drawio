@@ -94,7 +94,7 @@
         <mxCell id="kZcHzk28fJYrbu4TfanV-18" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;&lt;font&gt;AR &lt;span class=&quot;hljs-selector-tag&quot; style=&quot;font-size: 11px;&quot;&gt;Object&lt;/span&gt; Placement UI&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;fontSize=11;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="596.29" y="55" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vuw2rk7U0OtB3GrDGK4F-1" value="&lt;b&gt;&lt;font&gt;Music API&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="vuw2rk7U0OtB3GrDGK4F-1" value="&lt;b&gt;&lt;font&gt;Music Data&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="247.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vuw2rk7U0OtB3GrDGK4F-4" value="&lt;b&gt;&lt;font&gt;Music Player UI&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;fontSize=11;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBorderColor=none;" vertex="1" parent="1">
